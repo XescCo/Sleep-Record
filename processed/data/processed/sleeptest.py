@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 RAW_DIR = Path(r"C:\Users\franvicens\OneDrive - HBX Group\Documents\8. Portfolio\3. Projects\GithubSleep\Sleep-Record\data\raw\sleep")
-OUTPUT   = Path(r"fct_sleep8.csv")
+OUTPUT   = Path(r"fct_sleep.csv")
 
 records = {}
 
